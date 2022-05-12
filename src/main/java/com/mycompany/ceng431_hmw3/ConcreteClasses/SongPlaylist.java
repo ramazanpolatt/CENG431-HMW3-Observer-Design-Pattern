@@ -94,7 +94,9 @@ public class SongPlaylist  implements IPLaylist<ISong> {
     }
 
     @Override
-    public void remove(ISong playable) {
-        songList.remove(playable);
+    public void remove(ISong song) {
+        songList.remove(song);
+        numberOfSongs-=1;
+        durationInSeconds-=song.getDurationInSeconds();
     }
 }
