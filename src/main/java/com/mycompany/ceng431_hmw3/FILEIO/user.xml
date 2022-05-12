@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user username="tugkan">
+        <password>tugkan</password>
+    </user>
+    <user username="eren">
+        <password>eren</password>
+    </user>
+    <user username="serhat">
+        <password>serhat</password>
+        <follower><![CDATA[dilek]]></follower>
+    </user>
+    <user username="dilek">
+        <password>dilek</password>
+        <followed><![CDATA[serhat]]></followed>
+    </user>
+    <user username="ramazan">
+        <password>ramazan</password>
+    </user>
+</users>
