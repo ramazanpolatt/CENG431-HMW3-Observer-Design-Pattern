@@ -20,7 +20,9 @@ Play button increases the popularity of the selected song in the model and the g
 
 You can already create playlist and add song to them. The playlist page refresh itself when you create a playlist and at the parallel json file is updated.  
 
-![alt text](https://drive.google.com/uc?export=view&id=1yHt4YQnGgYOti04GdboE4mAvV7z768Wg)
+![alt text](https://drive.google.com/uc?export=view&id=1yHt4YQnGgYOti04GdboE4mAvV7z768Wg)  
+
+
 
 You can see all users and can make follow or unfollow operations. When a user is followed the playlist which are created by the followed user are included in your playlist page and you can access them.  
 
